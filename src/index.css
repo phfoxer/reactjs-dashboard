@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.bg-dark {
+  background-color: #380001 !important;
+  border-bottom: 1px solid #280001;
+}
